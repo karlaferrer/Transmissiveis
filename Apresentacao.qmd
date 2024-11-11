@@ -95,7 +95,7 @@ knitr::include_graphics("figure/global_map.jpg")
 
  - Em dez países o modelo estimou uma proporção maior de entrevistados em 2019 discordando fortemente que as vacinas são seguras, importantes ou efetivas comparado a 2015 (Afeganistão, Azerbaijão, Bósnia e Herzegovina, Geórgia, Indonésia, Japão, Malásia, Nigéria, Paquistão e Sérvia.)
  
- - Brasil: **segurança** em 2015 73.08% (71.15–75.01) e em 2019 63.32% (30.06–85.71); **importância** em 2015 92.87% (91.62–93.93) e em 2019 88.29% (70.28–98.45); **efetividade** em 2015 75.63% (73.98–77.51) e em 2019 55.93% (25.84–87.59). 
+ - Brasil: **segurança** em 2015 73.08% (71.15–75.01) e em 2019 63.32% (30.06–85.71) - posição 26 para 57; **importância** em 2015 92.87% (91.62–93.93) e em 2019 88.29% (70.28–98.45) - posição 4 para 20; **efetividade** em 2015 75.63% (73.98–77.51) e em 2019 55.93% (25.84–87.59) - posição 17 para 93. 
  
  
 # Resultados - mudança na confiança
