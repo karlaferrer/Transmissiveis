@@ -85,7 +85,7 @@ knitr::include_graphics("figure/global_map.jpg")
  
 # Resultados - confiança em novembro de 2015
  
- - **Concordam fortemente que as vacinas são seguras**: Argentina (89.4%, 87.7–91.3), Liberia (86.1%, 67.1–97.7), e Bangladesh (86.1%, 83.7–88.1) com maiores porcentagens estimadas e Japão (8.9%, 7.4–10.6), França (8.9%, 7.2–10.5) e Mogolia (8.1%, 6.4–9.8) com as menores.
+ - **Concordam fortemente que as vacinas são seguras**: Argentina (89.4%, 87.7–91.3), Liberia (86.1%, 67.1–97.7), e Bangladesh (86.1%, 83.7–88.1) com maiores porcentagens estimadas e Japão (8.9%, 7.4–10.6), França (8.9%, 7.2–10.5) e Mongolia (8.1%, 6.4–9.8) com as menores.
  
  - **Importantes:** Etiópia (96.3%, 95.2–97.3), Argentina (95.7%, 94.5–97.0) e Bangladesh (95.1%, 93.8–96.4); Menores: Turquia (22.1%, 19.5–24.7), Marrocos (15.8%, 13.7–18.4), e Georgia (2.7%, 1.6–3.8).
  
@@ -93,7 +93,7 @@ knitr::include_graphics("figure/global_map.jpg")
 
 # Resultados - confiança 2019 e Brasil
 
- - Em dez países o modelo estimou uma proporção maior de entrevistados em 2019 discordando fortemente que as vacinas são seguras, importantes ou efetivas comparado a 2015 (Afeganistão, Azerbaijão, Bósnia e Herzegovina, Geórgia, Indonésia, Japão, Malásia, Nigéria, Paquistão e Sérvia.)
+ - Em dez países o modelo estimou uma proporção maior de entrevistados em 2019 discordando fortemente que as vacinas são seguras, importantes ou efetivas comparado a 2015 (Afeganistão, Azerbaijão, Bósnia e Herzegovina, Geórgia, Indonésia, Japão, Malásia, Nigéria, Paquistão e Sérvia).
  
  - Brasil: **segurança** em 2015 73.08% (71.15–75.01) e em 2019 63.32% (30.06–85.71) - posição 26 para 57; **importância** em 2015 92.87% (91.62–93.93) e em 2019 88.29% (70.28–98.45) - posição 4 para 20; **efetividade** em 2015 75.63% (73.98–77.51) e em 2019 55.93% (25.84–87.59) - posição 17 para 93. 
  
@@ -125,8 +125,7 @@ knitr::include_graphics("figure/univariate_det.jpg")
  - Alta confiança em vacinas (66 países); 
  - Confiar nos profissionais de saúde mais do que família, amigos ou outras fontes não médicas para aconselhamento médico e de saúde (43 países);
  - Níveis de educação mais alto (35 países); 
-  - Sexo, com mulheres mais propensas do que os homens a relatar criança tendo pelo menos uma vacina em 41 países os homens mais propensos
-do que as mulheres em apenas um país ; 
+  - Sexo, com mulheres mais propensas do que os homens a relatar criança tendo pelo menos uma vacina em 41 países os homens mais propensos do que as mulheres em apenas um país; 
  - Idade (faixas etárias mais jovens com maiores probabilidade de adesão em 43 países); 
  - Comportamento de alta busca de informações (18 países). 
 
@@ -142,8 +141,7 @@ knitr::include_graphics("figure/association.jpg")
  
  - Correlação de Pearson de 0,28 (IC 95% 0,12–0,42) entre proporção que concordam fortemente que vacinas são seguras e proporção que relatou ter vacinado seus filhos.
  
- - Correlação de Pearson de 0,45 (0,31–0,57) para a importância da vacina
-e adoção, e 0,28 (0,12–0,42) para efetividade da vacina e adoção.
+ - Correlação de Pearson de 0,45 (0,31–0,57) para a importância da vacina e adoção, e 0,28 (0,12–0,42) para efetividade da vacina e adoção.
  
 # Discussão - limitações
  
